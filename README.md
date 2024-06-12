@@ -5,7 +5,7 @@ With a keen interest in data science, machine learning, and artificial intellige
 My goal is to leverage my technical skills and academic knowledge to solve real-world problems and drive innovation.
 
 🌱 Lifelong Learner: I am constantly expanding my knowledge and skills in the fields of data science, machine learning, and software development. 
-I am currently focusing on advanced machine learning techniques, data analytics and Gereative & Responsible AI that can be used in business cases.
+I am currently focusing on advanced machine learning techniques, data analytics and Generative & Responsible AI that can be used in business cases.
 
 📊 **Skills & Expertise:**
 
